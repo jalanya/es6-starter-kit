@@ -9,4 +9,9 @@ export function showProject() {
   console.log('change 4');
   console.log('change 5-Task2');
   console.log('change 6-Task2');
+
+  console.log('change 7');
+  console.log('change 8');
+  console.log('change 9');
+
 }
